@@ -1,0 +1,2 @@
+const Nii
+Nii = 'aBitch'
