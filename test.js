@@ -1,2 +1,2 @@
-const Nii
+const Nii = 'cool'
 Nii = 'aBitch'
