@@ -1,2 +1,4 @@
 const Nii = 'cool'
-Nii = 'aBitch'
+Nii = 'isSmart'
+const Tariq = 'the best!!!'
+Tariq = 'test'
